@@ -1,0 +1,369 @@
+@charset "UTF-8";
+
+body,
+html {
+	margin: 0;
+	padding: 0;
+}
+
+#banner1_482547002 {
+	background-color: #a259ff;
+	border: 0;
+	box-sizing: border-box;
+	cursor: default;
+	display: block;
+	height: 850px;
+	overflow: hidden;
+	position: relative;
+	width: 650px;
+	z-index: 1;
+}
+
+#banner1_482547002 div {
+	position: absolute;
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+#banner1_482547002 img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+
+#b_1_banner1_482547002 {
+	top: 13.75px;
+	left: 16px;
+	z-index: 1;
+}
+
+#img_1_banner1_482547002 {
+	width: 25px;
+	height: 38px;
+}
+
+#img_1_banner1_482547002.bnfy-enter {
+	-webkit-animation: fade-in 100ms 4900ms ease 1 both;
+	animation: fade-in 100ms 4900ms ease 1 both;
+}
+
+#b_2_banner1_482547002 {
+	top: 0px;
+	left: 0px;
+	z-index: 2;
+}
+
+#img_2_banner1_482547002 {
+	width: 650px;
+	height: 850px;
+}
+
+#img_2_banner1_482547002.bnfy-enter {
+	-webkit-animation: fade-in 200ms 4800ms ease 1 both;
+	animation: fade-in 200ms 4800ms ease 1 both;
+}
+
+#b_3_banner1_482547002 {
+	top: 76px;
+	left: 435px;
+	z-index: 3;
+}
+
+#img_3_banner1_482547002 {
+	width: 39px;
+	height: 43px;
+}
+
+#img_3_banner1_482547002.bnfy-enter {
+	-webkit-animation: fade-in 500ms 4500ms ease 1 both;
+	animation: fade-in 500ms 4500ms ease 1 both;
+}
+
+#b_4_banner1_482547002 {
+	top: 72px;
+	left: 533px;
+	z-index: 4;
+}
+
+#img_4_banner1_482547002 {
+	width: 42px;
+	height: 50px;
+}
+
+#img_4_banner1_482547002.bnfy-enter {
+	-webkit-animation: fade-in 500ms 4200ms ease 1 both;
+	animation: fade-in 500ms 4200ms ease 1 both;
+}
+
+#b_5_banner1_482547002 {
+	top: 60px;
+	left: 334px;
+	z-index: 5;
+}
+
+#img_5_banner1_482547002 {
+	width: 61px;
+	height: 74px;
+}
+
+#img_5_banner1_482547002.bnfy-enter {
+	-webkit-animation: fade-in 500ms 3900ms ease 1 both;
+	animation: fade-in 500ms 3900ms ease 1 both;
+}
+
+#b_6_banner1_482547002 {
+	top: 172px;
+	left: 338px;
+	z-index: 6;
+}
+
+#img_6_banner1_482547002 {
+	width: 55px;
+	height: 65px;
+}
+
+#img_6_banner1_482547002.bnfy-enter {
+	-webkit-animation: fade-in 500ms 3600ms ease 1 both;
+	animation: fade-in 500ms 3600ms ease 1 both;
+}
+
+#b_7_banner1_482547002 {
+	top: 172px;
+	left: 420px;
+	z-index: 7;
+}
+
+#img_7_banner1_482547002 {
+	width: 66px;
+	height: 65px;
+}
+
+#img_7_banner1_482547002.bnfy-enter {
+	-webkit-animation: fade-in 500ms 3300ms ease 1 both;
+	animation: fade-in 500ms 3300ms ease 1 both;
+}
+
+#b_8_banner1_482547002 {
+	top: 175px;
+	left: 520px;
+	z-index: 8;
+}
+
+#img_8_banner1_482547002 {
+	width: 82px;
+	height: 64px;
+}
+
+#img_8_banner1_482547002.bnfy-enter {
+	-webkit-animation: fade-in 500ms 3000ms ease 1 both;
+	animation: fade-in 500ms 3000ms ease 1 both;
+}
+
+#b_9_banner1_482547002 {
+	top: 526px;
+	left: 95px;
+	z-index: 9;
+}
+
+#img_9_banner1_482547002 {
+	width: 56px;
+	height: 8px;
+}
+
+#img_9_banner1_482547002.bnfy-enter {
+	-webkit-animation: fade-in 500ms 2700ms ease 1 both;
+	animation: fade-in 500ms 2700ms ease 1 both;
+}
+
+#b_10_banner1_482547002 {
+	top: 749px;
+	left: 200px;
+	z-index: 10;
+}
+
+#img_10_banner1_482547002 {
+	width: 47px;
+	height: 46px;
+}
+
+#img_10_banner1_482547002.bnfy-enter {
+	-webkit-animation: fade-in 500ms 2400ms ease 1 both;
+	animation: fade-in 500ms 2400ms ease 1 both;
+}
+
+#b_11_banner1_482547002 {
+	top: 749px;
+	left: 64px;
+	z-index: 11;
+}
+
+#img_11_banner1_482547002 {
+	width: 47px;
+	height: 46px;
+}
+
+#img_11_banner1_482547002.bnfy-enter {
+	-webkit-animation: fade-in 500ms 2100ms ease 1 both;
+	animation: fade-in 500ms 2100ms ease 1 both;
+}
+
+#b_12_banner1_482547002 {
+	top: 622px;
+	left: 41px;
+	z-index: 12;
+}
+
+#img_12_banner1_482547002 {
+	width: 51px;
+	height: 53px;
+}
+
+#img_12_banner1_482547002.bnfy-enter {
+	-webkit-animation: fade-in 500ms 1800ms ease 1 both;
+	animation: fade-in 500ms 1800ms ease 1 both;
+}
+
+#b_13_banner1_482547002 {
+	top: 622px;
+	left: 105px;
+	z-index: 13;
+}
+
+#img_13_banner1_482547002 {
+	width: 51px;
+	height: 53px;
+}
+
+#img_13_banner1_482547002.bnfy-enter {
+	-webkit-animation: fade-in 500ms 1500ms ease 1 both;
+	animation: fade-in 500ms 1500ms ease 1 both;
+}
+
+#b_14_banner1_482547002 {
+	top: 29px;
+	left: 33px;
+	z-index: 14;
+}
+
+#img_14_banner1_482547002 {
+	width: 100px;
+	height: 114px;
+}
+
+#img_14_banner1_482547002.bnfy-enter {
+	-webkit-animation: fade-in 500ms 1200ms ease 1 both;
+	animation: fade-in 500ms 1200ms ease 1 both;
+}
+
+#b_15_banner1_482547002 {
+	top: 329px;
+	left: 334px;
+	z-index: 15;
+}
+
+#img_15_banner1_482547002 {
+	width: 61px;
+	height: 58px;
+}
+
+#img_15_banner1_482547002.bnfy-enter {
+	-webkit-animation: fade-in 500ms 900ms ease 1 both;
+	animation: fade-in 500ms 900ms ease 1 both;
+}
+
+#b_16_banner1_482547002 {
+	top: 328px;
+	left: 414px;
+	z-index: 16;
+}
+
+#img_16_banner1_482547002 {
+	width: 77px;
+	height: 62px;
+}
+
+#img_16_banner1_482547002.bnfy-enter {
+	-webkit-animation: fade-in 500ms 600ms ease 1 both;
+	animation: fade-in 500ms 600ms ease 1 both;
+}
+
+#b_17_banner1_482547002 {
+	top: 325px;
+	left: 507px;
+	z-index: 17;
+}
+
+#img_17_banner1_482547002 {
+	width: 93px;
+	height: 65px;
+}
+
+#img_17_banner1_482547002.bnfy-enter {
+	-webkit-animation: fade-in 500ms 300ms ease 1 both;
+	animation: fade-in 500ms 300ms ease 1 both;
+}
+
+@media (print), (prefers-reduced-motion: reduce) {
+	.banner__element {
+		-webkit-animation-duration: 1ms !important;
+		animation-duration: 1ms !important;
+		-webkit-transition-duration: 1ms !important;
+		transition-duration: 1ms !important;
+		-webkit-animation-iteration-count: 1 !important;
+		animation-iteration-count: 1 !important;
+	}
+}
+@-webkit-keyframes simple-show {
+	0% {
+		visibility: hidden;
+	}
+	100% {
+		visibility: visible;
+	}
+}
+@keyframes simple-show {
+	0% {
+		visibility: hidden;
+	}
+	100% {
+		visibility: visible;
+	}
+}
+@-webkit-keyframes simple-hide {
+	0% {
+		visibility: visible;
+	}
+	100% {
+		visibility: hidden;
+	}
+}
+@keyframes simple-hide {
+	0% {
+		visibility: visible;
+	}
+	100% {
+		visibility: hidden;
+	}
+}
+
+@-webkit-keyframes fade-in {
+	0% {
+		opacity: 0
+	}
+	to {
+		opacity: 1
+	}
+}
+
+@keyframes fade-in {
+	0% {
+		opacity: 0
+	}
+	to {
+		opacity: 1
+	}
+}
